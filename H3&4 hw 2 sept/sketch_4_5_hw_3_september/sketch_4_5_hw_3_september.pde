@@ -1,0 +1,12 @@
+float jaar;
+uur=3600;
+float dag;
+dag=86400;
+float maand;
+maand=2628000;
+float jaar;
+jaar=3153600;
+println(uur);
+println(dag);
+println(maand);
+println(jaar);
